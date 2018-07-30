@@ -1,2 +1,2 @@
-# laphotographs.github.io
+# clphotographs.github.io
 GitHub Pages
